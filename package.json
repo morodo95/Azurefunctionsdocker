@@ -1,0 +1,9 @@
+{
+  "name": "azurefunctionsdemo",
+  "version": "0.4",
+  "description": "Test Azure Functions Demo for Microsoft",
+  "scripts" : {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Aldo Gabriel Martinez"
+}
